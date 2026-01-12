@@ -24,3 +24,4 @@ Spring Boot backend application for GST billing and invoice management.
 
 ## Note
 Sensitive configuration files are excluded using .gitignore.
+Copy application-example.yml to application.yml and update local credentials.
